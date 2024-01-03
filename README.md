@@ -2,6 +2,11 @@
 
 - 🌱 I’m currently learning **R, Python, SQL, Linear algebra**
 
+**\[SDA_TeamProject_SGUniv_2023-2\]** repo is my first project with R & Statistic knowledge.
+
+"SDA" stands for "Statistics Data Analysis" which is the course name.
+
+If you really wanted to know me it is recommended to see my Tech blog.(It was built by Quarto and also Bilingual Blog!)
 
 <!--
 **oooo12-git/oooo12-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
