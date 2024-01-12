@@ -31,8 +31,6 @@ Here are some ideas to get you started:
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oooo12-git&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
----
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Foooo12-git%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)	
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-276DC3?style=flat-square&logo=r&link=https://oooo12.ooo/)](https://oooo12.ooo/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oooo12)](https://www.linkedin.com/in/oooo12)
