@@ -1,19 +1,17 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning **R, Python, SQL, Linear algebra**
-
-**\[SDA_TeamProject_SGUniv_2023-2\]** repo is my first project with R & Statistic knowledge.
+**\[SDA_TeamProject_SGUniv_2023-2\]** repo is my first project with R & Statistics knowledge.
 
 "SDA" stands for "Statistics Data Analysis" which is the course name.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oooo12-git&repo=SDA_TeamProject_SGUniv_2023-2)](https://github.com/oooo12-git/SDA_TeamProject_SGUniv_2023-2)
 
-If you really wanted to know me it is recommended to see my [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-276DC3?style=flat-square&logo=r&link=https://oooo12.ooo/)](https://oooo12.ooo/).(It was built by Quarto and also Bilingual Blog!)
+<!--If you really wanted to know me it is recommended to see my [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-276DC3?style=flat-square&logo=r&link=https://oooo12.ooo/)](https://oooo12.ooo/).(It was built by Quarto and also Bilingual Blog!)
 
 Also its repo is this below.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oooo12-git&repo=oooo12Blog)](https://github.com/oooo12-git/oooo12Blog)
-
+-->
 <!--
 **oooo12-git/oooo12-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
